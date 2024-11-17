@@ -1,0 +1,134 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    background-image: url(Qamla\ pic/beautiful-sea.jpg) ;
+    /* background-color: linear-garadirnt; */
+    /* background: linear-gradient(red, lightblue, blue, yellow, green, yellowgreen, blueviolet); */
+    font-weight: 20px;
+    /* font-weight: 18px; */
+}
+
+li {
+    display: inline-block;
+    /* text-decoration: none; */
+}
+
+a {
+    text-decoration: none;
+    color: #222;
+    border-bottom: 2px solid green;
+    margin: 10px 70px;
+    /* margin-bottom: 4px; */
+    font-size: 18px;
+    /* text-align: center; */
+}
+
+a:hover {
+    color: red;
+}
+
+.maindiv {
+    text-align: center;
+    background-color: rgba(230, 230, 230, 0.3);
+    /* background-color: #ddd; */
+    /* width: px; */
+    padding: 7px 100px;
+    margin: 0px 80px;
+    border: 2px solid yellowgreen;
+}
+
+.head1 {
+    text-align: center;
+}
+
+.h1{
+    padding: 7px 100px;
+    margin: 10px 80px;
+    text-align: center;
+    border: 2px solid yellowgreen;
+    background-color: rgba(255, 243, 15, 0.5);
+}
+
+ul {
+    text-align: center;
+
+}
+
+.img1 {
+    width: 480px;
+    height: 450px;
+    padding-left: 60px;
+    padding-bottom: 90px;
+}
+
+.img2 {
+    width: 970px;
+    height: 450px;
+    padding-left: 90px;
+}
+
+.div2 {
+    border: 2px solid yellowgreen;
+    margin: 10px 80px;
+    padding: 3px 10px;
+    /* opacity: 0.5; */
+    background-color: rgba(173, 245, 47, 0.3);
+    /* color: greenyellow; */
+}
+
+p {
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+.div2 {
+    border: 2px solid yellowgreen;
+    margin: 10px 80px;
+    padding: 3px 10px;
+    /* opacity: 0.5; */
+    background-color: rgba(173, 245, 47, 0.3);
+    /* color: greenyellow; */
+
+}
+
+button {
+    background-color: rgba(173, 245, 47, 0.3);
+}
+
+footer {
+    background-color: rgba(15, 255, 47, 0.3);
+    /* color: #fff; */
+    text-align: center;
+    margin: 10px 80px;
+    padding: 3px 10px;
+
+}
+
+footer,
+.div2,
+.maindiv,
+.h1{
+    border-radius: 8px;
+}
+
+.links {
+    text-align: center;
+}
+
+
+/* hr{
+    /* width: 50px; */
+    /* padding: 7px 100px; */
+    /* margin: 100px 80px;
+    border: 2px dotted red;
+} */ 
+
+/* .table{
+    margin-right: 100px;
+} */
